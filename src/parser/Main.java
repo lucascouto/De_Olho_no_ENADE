@@ -17,8 +17,6 @@ public class Main {
 		System.out.println(valoresCelulas.get(21));
 		System.out.println(valoresCelulas.get(22));
 		System.out.println(valoresCelulas.get(23));
-		System.out.println(valoresCelulas.get(24));
-		System.out.println(valoresCelulas.get(25));
 		
 	}
 

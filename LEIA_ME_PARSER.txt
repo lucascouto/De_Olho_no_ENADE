@@ -1,0 +1,21 @@
+﻿Instruções:
+-----------
+
+1- Importar libs da pasta "Bibliotecas_Parser" ao projeto.
+
+2- Gerar o .jar do projeto.
+
+3- Na pasta destino do .jar, colocar a planilha com os dados com o seguinte nome:
+	"conceito_enade.xlsx"
+
+4- Comando para executar o jar: java -jar {nome_paser}.jar
+
+
+Requisitos:
+-----------
+
+1- A planilha deve seguir a mesma formatação da planilha da pasta: "Planilha_Exemplo".
+
+2- Planilha em formato .xlsx.
+
+3- Necessário Java 1.6 SE.
